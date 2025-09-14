@@ -1,4 +1,4 @@
-# CareerCoachAI
+# WorkWise
 
 A modern web application designed to assist users with career development and job search activities.
 
@@ -43,7 +43,7 @@ This application provides AI-powered career coaching features including resume b
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd CareerCoachAI
+cd WorkWise
 ```
 
 2. Install dependencies:
